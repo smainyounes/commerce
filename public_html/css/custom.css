@@ -1,0 +1,8 @@
+html,body{
+  height: 100vh;
+  background-size: cover;
+}
+
+html {
+  scroll-behavior: smooth;
+}
